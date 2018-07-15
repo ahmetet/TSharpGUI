@@ -1,0 +1,14 @@
+Z:\T#\TSharpGUI\TSharpGUI\bin\Debug\TSharpGUI.exe.config
+Z:\T#\TSharpGUI\TSharpGUI\bin\Debug\TSharpGUI.exe
+Z:\T#\TSharpGUI\TSharpGUI\bin\Debug\TSharpGUI.pdb
+Z:\T#\TSharpGUI\TSharpGUI\bin\Debug\TSharpGUI.xml
+Z:\T#\TSharpGUI\TSharpGUI\obj\Debug\TSharpGUI.vbprojResolveAssemblyReference.cache
+Z:\T#\TSharpGUI\TSharpGUI\obj\Debug\TSharpGUI.Form1.resources
+Z:\T#\TSharpGUI\TSharpGUI\obj\Debug\TSharpGUI.Resources.resources
+Z:\T#\TSharpGUI\TSharpGUI\obj\Debug\TSharpGUI.vbproj.GenerateResource.Cache
+Z:\T#\TSharpGUI\TSharpGUI\obj\Debug\TSharpGUI.exe
+Z:\T#\TSharpGUI\TSharpGUI\obj\Debug\TSharpGUI.xml
+Z:\T#\TSharpGUI\TSharpGUI\obj\Debug\TSharpGUI.pdb
+Z:\T#\TSharpGUI\TSharpGUI\obj\Debug\TSharpGUI.TSharpUSTBAR.resources
+Z:\T#\TSharpGUI\TSharpGUI\obj\Debug\TSharpGUI.Ozellikler.resources
+Z:\T#\TSharpGUI\TSharpGUI\obj\Debug\TSharpGUI.Ayar.resources
